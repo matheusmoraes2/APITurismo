@@ -1,0 +1,18 @@
+{
+    "Email": "matheusmoraes@hotmail.com",
+    "Senha": "12345",
+    "Nome": "Matheus Moraes",
+    "DataNascimento": "2000-06-14T20:19:07.142Z",
+    "Tag": "Matheus",
+    "NomeUsuario": "Matheus Moraes",
+    "Endereço": {
+        "Pais": "Brasil",
+        "Estado": "PE",
+        "Cidade": "Recife",
+        "Bairro": "Torroes",
+        "Cep": "50640430",
+        "Complemento": "seila",
+        "Numero": "117",
+        "Rua": "Tumiritinga"
+    }
+}
